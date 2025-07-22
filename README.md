@@ -8,7 +8,7 @@
 
 ## 🧠 Obiettivo del progetto
 
-Il progetto mira a **classificare immagini di azioni umane** sfruttando **tecniche di classificazione multimodale**, ovvero combinando l'informazione visuale (immagine) e quella testuale (descrizione). Il modello è addestrato a riconoscere l'azione svolta (es. "dancing", "eating", "sleeping"...) osservando sia l’immagine che una descrizione coerente.
+Il progetto consiste nella realizzazione di una **rete neurale** per la **classificazione di immagini di azioni umane** sfruttando **tecniche di classificazione multimodale**, ovvero combinando l'informazione visuale (immagine) e quella testuale (descrizione). Il modello è addestrato a riconoscere l'azione svolta (es. "dancing", "eating", "sleeping"...) osservando sia l’immagine che una descrizione coerente.
 
 ---
 
