@@ -96,5 +96,16 @@ CLIP viene usato **come estrattore di feature**, e non viene riaddestrato. Le fe
 
 <img width="791" height="790" alt="download (1)" src="https://github.com/user-attachments/assets/6115c26e-41b1-4630-a0a9-d9629a5bc151" />
 
+---
+
+## 📬 Contact
+
+Developed by **Valerio Botto**  
+[LinkedIn](https://www.linkedin.com/) 
+
+---
+
+© 2025 Università di Catania — For educational purposes.
+
 
 
